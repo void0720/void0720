@@ -1,9 +1,9 @@
 ## 贡献统计 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=void0720&show_icons=true&theme=ambient_gradient)](https://github.com/void0720)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=void0720&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/void0720)
 
 
 ## 热门语言
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void0720)](https://github.com/void0720)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void0720&layout=compact)](https://github.com/void0720)
 
 
 
