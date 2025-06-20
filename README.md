@@ -1,6 +1,11 @@
-## Hi there 👋
-
+## 贡献统计 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=void0720&show_icons=true&theme=ambient_gradient)](https://github.com/void0720)
+
+
+## 热门语言
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void0720)](https://github.com/void0720)
+
+
 
 <!--
 **void0720/void0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
